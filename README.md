@@ -1,4 +1,3 @@
 # Turma \<GoDev> 🌎
 
-- Turma de C# - Ímã learning place
-- prof. **Hugo Rafael**
+Turma de C# na [Ímã learning place](https://imalearningplace.com)
