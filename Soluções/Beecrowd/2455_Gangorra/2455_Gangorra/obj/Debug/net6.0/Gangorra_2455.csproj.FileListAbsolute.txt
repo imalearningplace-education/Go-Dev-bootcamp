@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\bin\Debug\net6.0\Gangorra_2455.exe
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\bin\Debug\net6.0\Gangorra_2455.deps.json
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\bin\Debug\net6.0\Gangorra_2455.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\bin\Debug\net6.0\Gangorra_2455.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\bin\Debug\net6.0\Gangorra_2455.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\obj\Debug\net6.0\Gangorra_2455.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\obj\Debug\net6.0\Gangorra_2455.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\obj\Debug\net6.0\Gangorra_2455.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\obj\Debug\net6.0\Gangorra_2455.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\obj\Debug\net6.0\Gangorra_2455.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\obj\Debug\net6.0\Gangorra_2455.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\obj\Debug\net6.0\refint\Gangorra_2455.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\obj\Debug\net6.0\Gangorra_2455.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\obj\Debug\net6.0\Gangorra_2455.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2455_Gangorra\2455_Gangorra\obj\Debug\net6.0\ref\Gangorra_2455.dll
