@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\bin\Debug\net6.0\AprovadoOuReprovado.exe
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\bin\Debug\net6.0\AprovadoOuReprovado.deps.json
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\bin\Debug\net6.0\AprovadoOuReprovado.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\bin\Debug\net6.0\AprovadoOuReprovado.dll
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\bin\Debug\net6.0\AprovadoOuReprovado.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\net6.0\AprovadoOuReprovado.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\net6.0\AprovadoOuReprovado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\net6.0\AprovadoOuReprovado.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\net6.0\AprovadoOuReprovado.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\net6.0\AprovadoOuReprovado.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\net6.0\AprovadoOuReprovado.dll
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\net6.0\refint\AprovadoOuReprovado.dll
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\net6.0\AprovadoOuReprovado.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\net6.0\AprovadoOuReprovado.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\net6.0\ref\AprovadoOuReprovado.dll
