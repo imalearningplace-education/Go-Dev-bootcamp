@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\bin\Debug\net6.0\Flipper.exe
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\bin\Debug\net6.0\Flipper.deps.json
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\bin\Debug\net6.0\Flipper.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\bin\Debug\net6.0\Flipper.dll
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\bin\Debug\net6.0\Flipper.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\obj\Debug\net6.0\Flipper.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\obj\Debug\net6.0\Flipper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\obj\Debug\net6.0\Flipper.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\obj\Debug\net6.0\Flipper.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\obj\Debug\net6.0\Flipper.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\obj\Debug\net6.0\Flipper.dll
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\obj\Debug\net6.0\refint\Flipper.dll
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\obj\Debug\net6.0\Flipper.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\obj\Debug\net6.0\Flipper.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Flipper\Flipper\obj\Debug\net6.0\ref\Flipper.dll
