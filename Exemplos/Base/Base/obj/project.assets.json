@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aulas\\Turmas\\GoDev\\projects\\Base\\Base\\Base.csproj",
+      "projectUniqueName": "C:\\Aulas\\Turmas\\GoDev\\Exemplos\\Base\\Base\\Base.csproj",
       "projectName": "Base",
-      "projectPath": "C:\\Aulas\\Turmas\\GoDev\\projects\\Base\\Base\\Base.csproj",
+      "projectPath": "C:\\Aulas\\Turmas\\GoDev\\Exemplos\\Base\\Base\\Base.csproj",
       "packagesPath": "C:\\Users\\hugor\\.nuget\\packages\\",
-      "outputPath": "C:\\Aulas\\Turmas\\GoDev\\projects\\Base\\Base\\obj\\",
+      "outputPath": "C:\\Aulas\\Turmas\\GoDev\\Exemplos\\Base\\Base\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
