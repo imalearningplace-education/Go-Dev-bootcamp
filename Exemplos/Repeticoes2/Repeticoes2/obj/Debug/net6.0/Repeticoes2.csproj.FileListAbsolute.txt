@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\obj\Debug\net6.0\Repeticoes2.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\obj\Debug\net6.0\Repeticoes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\obj\Debug\net6.0\Repeticoes2.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\obj\Debug\net6.0\Repeticoes2.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\obj\Debug\net6.0\Repeticoes2.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\bin\Debug\net6.0\Repeticoes2.exe
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\bin\Debug\net6.0\Repeticoes2.deps.json
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\bin\Debug\net6.0\Repeticoes2.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\bin\Debug\net6.0\Repeticoes2.dll
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\bin\Debug\net6.0\Repeticoes2.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\obj\Debug\net6.0\Repeticoes2.dll
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\obj\Debug\net6.0\refint\Repeticoes2.dll
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\obj\Debug\net6.0\Repeticoes2.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\obj\Debug\net6.0\Repeticoes2.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Repeticoes2\Repeticoes2\obj\Debug\net6.0\ref\Repeticoes2.dll
