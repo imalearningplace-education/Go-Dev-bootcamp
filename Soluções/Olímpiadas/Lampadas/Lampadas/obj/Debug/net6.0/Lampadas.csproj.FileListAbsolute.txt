@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\obj\Debug\net6.0\Lampadas.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\obj\Debug\net6.0\Lampadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\obj\Debug\net6.0\Lampadas.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\obj\Debug\net6.0\Lampadas.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\obj\Debug\net6.0\Lampadas.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\bin\Debug\net6.0\Lampadas.exe
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\bin\Debug\net6.0\Lampadas.deps.json
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\bin\Debug\net6.0\Lampadas.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\bin\Debug\net6.0\Lampadas.dll
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\bin\Debug\net6.0\Lampadas.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\obj\Debug\net6.0\Lampadas.dll
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\obj\Debug\net6.0\refint\Lampadas.dll
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\obj\Debug\net6.0\Lampadas.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\obj\Debug\net6.0\Lampadas.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Soluções\Olímpiadas\Lampadas\Lampadas\obj\Debug\net6.0\ref\Lampadas.dll
