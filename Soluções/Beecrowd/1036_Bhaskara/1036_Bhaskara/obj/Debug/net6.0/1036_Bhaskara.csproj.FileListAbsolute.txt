@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\bin\Debug\net6.0\1036_Bhaskara.exe
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\bin\Debug\net6.0\1036_Bhaskara.deps.json
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\bin\Debug\net6.0\1036_Bhaskara.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\bin\Debug\net6.0\1036_Bhaskara.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\bin\Debug\net6.0\1036_Bhaskara.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\obj\Debug\net6.0\1036_Bhaskara.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\obj\Debug\net6.0\1036_Bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\obj\Debug\net6.0\1036_Bhaskara.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\obj\Debug\net6.0\1036_Bhaskara.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\obj\Debug\net6.0\1036_Bhaskara.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\obj\Debug\net6.0\1036_Bhaskara.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\obj\Debug\net6.0\refint\1036_Bhaskara.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\obj\Debug\net6.0\1036_Bhaskara.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\obj\Debug\net6.0\1036_Bhaskara.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1036_Bhaskara\1036_Bhaskara\obj\Debug\net6.0\ref\1036_Bhaskara.dll
