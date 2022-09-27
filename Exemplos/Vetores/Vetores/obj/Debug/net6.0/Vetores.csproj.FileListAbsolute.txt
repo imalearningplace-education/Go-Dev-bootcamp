@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\bin\Debug\net6.0\Vetores.exe
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\bin\Debug\net6.0\Vetores.deps.json
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\bin\Debug\net6.0\Vetores.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\bin\Debug\net6.0\Vetores.dll
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\bin\Debug\net6.0\Vetores.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\obj\Debug\net6.0\Vetores.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\obj\Debug\net6.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\obj\Debug\net6.0\Vetores.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\obj\Debug\net6.0\Vetores.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\obj\Debug\net6.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\obj\Debug\net6.0\Vetores.dll
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\obj\Debug\net6.0\refint\Vetores.dll
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\obj\Debug\net6.0\Vetores.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\obj\Debug\net6.0\Vetores.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Vetores\Vetores\obj\Debug\net6.0\ref\Vetores.dll
