@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\bin\Debug\net6.0\EntradasUmaLinha.exe
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\bin\Debug\net6.0\EntradasUmaLinha.deps.json
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\bin\Debug\net6.0\EntradasUmaLinha.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\bin\Debug\net6.0\EntradasUmaLinha.dll
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\bin\Debug\net6.0\EntradasUmaLinha.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\obj\Debug\net6.0\EntradasUmaLinha.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\obj\Debug\net6.0\EntradasUmaLinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\obj\Debug\net6.0\EntradasUmaLinha.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\obj\Debug\net6.0\EntradasUmaLinha.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\obj\Debug\net6.0\EntradasUmaLinha.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\obj\Debug\net6.0\EntradasUmaLinha.dll
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\obj\Debug\net6.0\refint\EntradasUmaLinha.dll
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\obj\Debug\net6.0\EntradasUmaLinha.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\obj\Debug\net6.0\EntradasUmaLinha.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Exemplos\EntradasUmaLinha\EntradasUmaLinha\obj\Debug\net6.0\ref\EntradasUmaLinha.dll
