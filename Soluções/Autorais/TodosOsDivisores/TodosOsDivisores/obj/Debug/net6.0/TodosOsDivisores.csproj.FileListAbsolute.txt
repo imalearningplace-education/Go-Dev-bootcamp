@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\bin\Debug\net6.0\TodosOsDivisores.exe
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\bin\Debug\net6.0\TodosOsDivisores.deps.json
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\bin\Debug\net6.0\TodosOsDivisores.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\bin\Debug\net6.0\TodosOsDivisores.dll
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\bin\Debug\net6.0\TodosOsDivisores.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\obj\Debug\net6.0\TodosOsDivisores.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\obj\Debug\net6.0\TodosOsDivisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\obj\Debug\net6.0\TodosOsDivisores.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\obj\Debug\net6.0\TodosOsDivisores.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\obj\Debug\net6.0\TodosOsDivisores.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\obj\Debug\net6.0\TodosOsDivisores.dll
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\obj\Debug\net6.0\refint\TodosOsDivisores.dll
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\obj\Debug\net6.0\TodosOsDivisores.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\obj\Debug\net6.0\TodosOsDivisores.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\TodosOsDivisores\TodosOsDivisores\obj\Debug\net6.0\ref\TodosOsDivisores.dll
