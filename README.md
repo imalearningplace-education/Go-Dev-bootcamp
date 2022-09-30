@@ -1,8 +1,8 @@
 # Turma \<GoDev> 🧲🌎
 
-Turma de C# na [**Ímã learning place**](https://imalearningplace.com)
-Objetivo: **`C#`** e aplicações reais na linguagem
-Professor: [Hugo Rafael](https://github.com/hgrafa)
+* Turma de C# na [**Ímã learning place**](https://imalearningplace.com)
+* Objetivo: **`C#`** e aplicações reais na linguagem
+* Professor: [Hugo Rafael](https://github.com/hgrafa)
 
 ## Quer contribuir para o nosso repositório?
 
