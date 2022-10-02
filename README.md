@@ -9,11 +9,18 @@
 * 📝 [Notas das Aulas](/Notas/)
 * 🌱 [Exemplos das aulas](/Exemplos/)
 * ✏️ [Exercícios Resolvidos e Propostos](/Exerc%C3%ADcios/)
-* 🧩 [soluções](Solu%C3%A7%C3%B5es/)
+* 🧩 [Soluções](Solu%C3%A7%C3%B5es/)
+  * 🔹 [Soluções - Beecrowd](/Solu%C3%A7%C3%B5es/Beecrowd/)
+  * 🔹 [Soluções - Competições de Programação](/Solu%C3%A7%C3%B5es/Ol%C3%ADmpiadas/)
+  * 🔹 [Soluções - Problemas Autorais](/Solu%C3%A7%C3%B5es/Autorais/)
 
 <!-- ## 🚀 Projetos Reais -->
 
 ## 💙 Contribua
+
+Confira mais no nosso [**código de conduta**](/CODE_OF_CONDUCT.md).
+
+> Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar.💙
 
 1. Realize um **Fork** do projeto
 2. Crie uma **Branch** para modificar (`git checkout -b solution/beecrowd1001`)
@@ -22,7 +29,6 @@
 5. Crie uma **Issue** com um de nossos templates
 6. Abra um **Pull Request** e faça o link com a(s) **issue**(s) correspondentes.
 
-
-Confira mais no nosso [**código de conduta**](/CODE_OF_CONDUCT.md).
-
 ## 🗝️ Licensa e permissão de uso
+
+Confira a [**licensa de uso**](LICENSE) deste repositório e nos nossos materiais.
