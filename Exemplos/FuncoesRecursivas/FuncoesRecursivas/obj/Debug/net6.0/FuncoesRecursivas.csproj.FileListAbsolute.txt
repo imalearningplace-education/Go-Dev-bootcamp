@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\bin\Debug\net6.0\FuncoesRecursivas.exe
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\bin\Debug\net6.0\FuncoesRecursivas.deps.json
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\bin\Debug\net6.0\FuncoesRecursivas.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\bin\Debug\net6.0\FuncoesRecursivas.dll
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\bin\Debug\net6.0\FuncoesRecursivas.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\net6.0\FuncoesRecursivas.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\net6.0\FuncoesRecursivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\net6.0\FuncoesRecursivas.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\net6.0\FuncoesRecursivas.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\net6.0\FuncoesRecursivas.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\net6.0\FuncoesRecursivas.dll
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\net6.0\refint\FuncoesRecursivas.dll
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\net6.0\FuncoesRecursivas.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\net6.0\FuncoesRecursivas.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Exemplos\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\net6.0\ref\FuncoesRecursivas.dll
