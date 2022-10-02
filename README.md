@@ -13,10 +13,16 @@
 
 <!-- ## 🚀 Projetos Reais -->
 
-## 👥 Contribua
+## 💙 Contribua
 
-Confira o [**código de conduta**](/CODE_OF_CONDUCT.md) para contribuir com soluções e boas referências.
+1. Realize um **Fork** do projeto
+2. Crie uma **Branch** para modificar (`git checkout -b solution/beecrowd1001`)
+3. Realize o(s) **Commit**'s (`git commit -m "Adicionando solução :)"`)
+4. Realize o **Push** da sua **Branch** (`git push origin solution/beecrowd1001`)
+5. Crie uma **Issue** com um de nossos templates
+6. Abra um **Pull Request** e faça o link com a(s) **issue**(s) correspondentes.
 
-Contribuições fazem com que nossa turma seja além de um lugar para aprender, mas também seja um lugar para criar e compartilhar.💙 
+
+Confira mais no nosso [**código de conduta**](/CODE_OF_CONDUCT.md).
 
 ## 🗝️ Licensa e permissão de uso
