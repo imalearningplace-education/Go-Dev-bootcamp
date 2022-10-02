@@ -10,14 +10,9 @@
             double b = double.Parse(linha[1]);
             double c = double.Parse(linha[2]);
 
-            if ( a == 0 ) {
-                Console.WriteLine("Impossivel calcular");
-                return; // pausamos o programa
-            }
-
             double delta = Math.Pow(b, 2) - 4 * a * c;
 
-            if ( delta < 0 ) {
+            if ( delta < 0 || a == 0 ) {
                 Console.WriteLine("Impossivel calcular");
                 return; // pausamos o programa
             }
