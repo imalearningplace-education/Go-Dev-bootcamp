@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\bin\Debug\net6.0\1165_NumeroPrimo.exe
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\bin\Debug\net6.0\1165_NumeroPrimo.deps.json
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\bin\Debug\net6.0\1165_NumeroPrimo.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\bin\Debug\net6.0\1165_NumeroPrimo.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\bin\Debug\net6.0\1165_NumeroPrimo.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\obj\Debug\net6.0\1165_NumeroPrimo.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\obj\Debug\net6.0\1165_NumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\obj\Debug\net6.0\1165_NumeroPrimo.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\obj\Debug\net6.0\1165_NumeroPrimo.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\obj\Debug\net6.0\1165_NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\obj\Debug\net6.0\1165_NumeroPrimo.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\obj\Debug\net6.0\refint\1165_NumeroPrimo.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\obj\Debug\net6.0\1165_NumeroPrimo.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\obj\Debug\net6.0\1165_NumeroPrimo.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1165_NumeroPrimo\1165_NumeroPrimo\obj\Debug\net6.0\ref\1165_NumeroPrimo.dll
