@@ -10,9 +10,6 @@
 * 🌱 [Exemplos das aulas](/Exemplos/)
 * ✏️ [Exercícios Resolvidos e Propostos](/Exerc%C3%ADcios/)
 * 🧩 [Soluções](Solu%C3%A7%C3%B5es/)
-  * 🔹 [Soluções - Beecrowd](/Solu%C3%A7%C3%B5es/Beecrowd/)
-  * 🔹 [Soluções - Competições de Programação](/Solu%C3%A7%C3%B5es/Ol%C3%ADmpiadas/)
-  * 🔹 [Soluções - Problemas Autorais](/Solu%C3%A7%C3%B5es/Autorais/)
 
 <!-- ## 🚀 Projetos Reais -->
 
