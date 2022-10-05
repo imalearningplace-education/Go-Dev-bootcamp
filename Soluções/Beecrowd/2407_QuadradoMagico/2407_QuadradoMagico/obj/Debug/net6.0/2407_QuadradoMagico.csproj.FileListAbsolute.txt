@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\bin\Debug\net6.0\2407_QuadradoMagico.exe
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\bin\Debug\net6.0\2407_QuadradoMagico.deps.json
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\bin\Debug\net6.0\2407_QuadradoMagico.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\bin\Debug\net6.0\2407_QuadradoMagico.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\bin\Debug\net6.0\2407_QuadradoMagico.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\obj\Debug\net6.0\2407_QuadradoMagico.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\obj\Debug\net6.0\2407_QuadradoMagico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\obj\Debug\net6.0\2407_QuadradoMagico.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\obj\Debug\net6.0\2407_QuadradoMagico.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\obj\Debug\net6.0\2407_QuadradoMagico.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\obj\Debug\net6.0\2407_QuadradoMagico.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\obj\Debug\net6.0\refint\2407_QuadradoMagico.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\obj\Debug\net6.0\2407_QuadradoMagico.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\obj\Debug\net6.0\2407_QuadradoMagico.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2407_QuadradoMagico\2407_QuadradoMagico\obj\Debug\net6.0\ref\2407_QuadradoMagico.dll
