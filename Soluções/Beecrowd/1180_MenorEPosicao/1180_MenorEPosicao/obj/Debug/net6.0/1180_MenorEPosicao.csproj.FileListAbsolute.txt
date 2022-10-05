@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\bin\Debug\net6.0\1180_MenorEPosicao.exe
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\bin\Debug\net6.0\1180_MenorEPosicao.deps.json
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\bin\Debug\net6.0\1180_MenorEPosicao.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\bin\Debug\net6.0\1180_MenorEPosicao.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\bin\Debug\net6.0\1180_MenorEPosicao.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\obj\Debug\net6.0\1180_MenorEPosicao.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\obj\Debug\net6.0\1180_MenorEPosicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\obj\Debug\net6.0\1180_MenorEPosicao.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\obj\Debug\net6.0\1180_MenorEPosicao.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\obj\Debug\net6.0\1180_MenorEPosicao.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\obj\Debug\net6.0\1180_MenorEPosicao.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\obj\Debug\net6.0\refint\1180_MenorEPosicao.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\obj\Debug\net6.0\1180_MenorEPosicao.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\obj\Debug\net6.0\1180_MenorEPosicao.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\1180_MenorEPosicao\1180_MenorEPosicao\obj\Debug\net6.0\ref\1180_MenorEPosicao.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1180_MenorEPosicao", "1180_MenorEPosicao\1180_MenorEPosicao.csproj", "{5E89DF2F-F496-48F3-84B4-D4424E4FB258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E89DF2F-F496-48F3-84B4-D4424E4FB258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E89DF2F-F496-48F3-84B4-D4424E4FB258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E89DF2F-F496-48F3-84B4-D4424E4FB258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E89DF2F-F496-48F3-84B4-D4424E4FB258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB0E3D8B-824D-440F-9134-C217AE0FC1FA}
+	EndGlobalSection
+EndGlobal
