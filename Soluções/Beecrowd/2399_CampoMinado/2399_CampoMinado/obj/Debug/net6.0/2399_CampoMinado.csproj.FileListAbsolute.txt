@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\bin\Debug\net6.0\2399_CampoMinado.exe
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\bin\Debug\net6.0\2399_CampoMinado.deps.json
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\bin\Debug\net6.0\2399_CampoMinado.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\bin\Debug\net6.0\2399_CampoMinado.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\bin\Debug\net6.0\2399_CampoMinado.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\obj\Debug\net6.0\2399_CampoMinado.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\obj\Debug\net6.0\2399_CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\obj\Debug\net6.0\2399_CampoMinado.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\obj\Debug\net6.0\2399_CampoMinado.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\obj\Debug\net6.0\2399_CampoMinado.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\obj\Debug\net6.0\2399_CampoMinado.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\obj\Debug\net6.0\refint\2399_CampoMinado.dll
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\obj\Debug\net6.0\2399_CampoMinado.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\obj\Debug\net6.0\2399_CampoMinado.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Soluções\Beecrowd\2399_CampoMinado\2399_CampoMinado\obj\Debug\net6.0\ref\2399_CampoMinado.dll
