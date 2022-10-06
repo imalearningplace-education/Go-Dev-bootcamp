@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\bin\Debug\net6.0\AtributosEMetodos.exe
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\bin\Debug\net6.0\AtributosEMetodos.deps.json
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\bin\Debug\net6.0\AtributosEMetodos.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\bin\Debug\net6.0\AtributosEMetodos.dll
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\bin\Debug\net6.0\AtributosEMetodos.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\obj\Debug\net6.0\AtributosEMetodos.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\obj\Debug\net6.0\AtributosEMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\obj\Debug\net6.0\AtributosEMetodos.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\obj\Debug\net6.0\AtributosEMetodos.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\obj\Debug\net6.0\AtributosEMetodos.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\obj\Debug\net6.0\AtributosEMetodos.dll
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\obj\Debug\net6.0\refint\AtributosEMetodos.dll
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\obj\Debug\net6.0\AtributosEMetodos.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\obj\Debug\net6.0\AtributosEMetodos.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Exemplos\AtributosEMetodos\AtributosEMetodos\obj\Debug\net6.0\ref\AtributosEMetodos.dll
