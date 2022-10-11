@@ -14,8 +14,8 @@ namespace Banco {
             acc1.Depositar(200.0);
             acc1.Transferir(150.0, acc2);
 
-            Console.WriteLine($"Saldo final conta do(a) {acc1.Nome} = R${acc1.Saldo:F2}");
-            Console.WriteLine($"Saldo final conta do(a) {acc2.Nome} = R${acc2.Saldo:F2}");
+            Console.WriteLine($"Saldo final conta ({acc1.ID}) do(a) {acc1.Nome} = R${acc1.Saldo:F2}");
+            Console.WriteLine($"Saldo final conta ({acc2.ID}) do(a) {acc2.Nome} = R${acc2.Saldo:F2}");
 
         }
 

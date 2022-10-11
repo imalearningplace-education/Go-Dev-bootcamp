@@ -1,23 +1,31 @@
 ﻿namespace Banco.Entities {
-    
+
     public class Conta {
 
+        // auto properties
+        public string ID { get; private set; }
+        public double Saldo { get; private set; }
+
         // atributos
-        public string ID;
-        public string Nome;
-        public double Saldo;
+        private string _nome;
 
         // construtor e sobrecargas
         public Conta(string id, string nome, double saldo) {
             ID = id;
-            Nome = nome;
+            _nome = nome;
             Saldo = saldo;
         }
 
         public Conta(string iD, string nome) {
             ID = iD;
-            Nome = nome;
+            _nome = nome;
             Saldo = 0.0;
+        }
+
+        // Propridades
+        public string Nome {
+            get { return _nome; }
+            set { _nome = (value != null && value != "") ? value : _nome; }
         }
 
         // métodos
