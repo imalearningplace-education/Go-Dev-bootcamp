@@ -183,7 +183,7 @@ public Conta(string id, string nome, double saldo) {
     Saldo = saldo;
 }
 
-public Conta(string iD, string nome) {
+public Conta(string id, string nome) {
     ID = id;
     Nome = nome;
     Saldo = 0.0;
