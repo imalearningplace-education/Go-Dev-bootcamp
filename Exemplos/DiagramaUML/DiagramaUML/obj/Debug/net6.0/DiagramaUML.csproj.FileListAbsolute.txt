@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\obj\Debug\net6.0\DiagramaUML.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\obj\Debug\net6.0\DiagramaUML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\obj\Debug\net6.0\DiagramaUML.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\obj\Debug\net6.0\DiagramaUML.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\obj\Debug\net6.0\DiagramaUML.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\bin\Debug\net6.0\DiagramaUML.exe
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\bin\Debug\net6.0\DiagramaUML.deps.json
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\bin\Debug\net6.0\DiagramaUML.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\bin\Debug\net6.0\DiagramaUML.dll
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\bin\Debug\net6.0\DiagramaUML.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\obj\Debug\net6.0\DiagramaUML.dll
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\obj\Debug\net6.0\refint\DiagramaUML.dll
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\obj\Debug\net6.0\DiagramaUML.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\obj\Debug\net6.0\DiagramaUML.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Exemplos\DiagramaUML\DiagramaUML\obj\Debug\net6.0\ref\DiagramaUML.dll
