@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\bin\Debug\net6.0\Referencias.exe
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\bin\Debug\net6.0\Referencias.deps.json
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\bin\Debug\net6.0\Referencias.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\bin\Debug\net6.0\Referencias.dll
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\bin\Debug\net6.0\Referencias.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\obj\Debug\net6.0\Referencias.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\obj\Debug\net6.0\Referencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\obj\Debug\net6.0\Referencias.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\obj\Debug\net6.0\Referencias.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\obj\Debug\net6.0\Referencias.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\obj\Debug\net6.0\Referencias.dll
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\obj\Debug\net6.0\refint\Referencias.dll
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\obj\Debug\net6.0\Referencias.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\obj\Debug\net6.0\Referencias.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Referencias\Referencias\obj\Debug\net6.0\ref\Referencias.dll
