@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\bin\Debug\net6.0\Foreach.exe
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\bin\Debug\net6.0\Foreach.deps.json
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\bin\Debug\net6.0\Foreach.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\bin\Debug\net6.0\Foreach.dll
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\bin\Debug\net6.0\Foreach.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\obj\Debug\net6.0\Foreach.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\obj\Debug\net6.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\obj\Debug\net6.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\obj\Debug\net6.0\Foreach.dll
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\obj\Debug\net6.0\refint\Foreach.dll
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\obj\Debug\net6.0\Foreach.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\obj\Debug\net6.0\Foreach.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Exemplos\Foreach\Foreach\obj\Debug\net6.0\ref\Foreach.dll
