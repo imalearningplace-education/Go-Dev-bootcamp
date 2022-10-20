@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\bin\Debug\net6.0\VetoresDinamicos.exe
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\bin\Debug\net6.0\VetoresDinamicos.deps.json
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\bin\Debug\net6.0\VetoresDinamicos.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\bin\Debug\net6.0\VetoresDinamicos.dll
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\bin\Debug\net6.0\VetoresDinamicos.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\obj\Debug\net6.0\VetoresDinamicos.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\obj\Debug\net6.0\VetoresDinamicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\obj\Debug\net6.0\VetoresDinamicos.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\obj\Debug\net6.0\VetoresDinamicos.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\obj\Debug\net6.0\VetoresDinamicos.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\obj\Debug\net6.0\VetoresDinamicos.dll
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\obj\Debug\net6.0\refint\VetoresDinamicos.dll
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\obj\Debug\net6.0\VetoresDinamicos.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\obj\Debug\net6.0\VetoresDinamicos.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\VetoresDinamicos\VetoresDinamicos\obj\Debug\net6.0\ref\VetoresDinamicos.dll
