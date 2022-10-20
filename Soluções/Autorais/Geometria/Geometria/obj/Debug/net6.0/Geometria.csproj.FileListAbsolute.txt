@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\bin\Debug\net6.0\Geometria.exe
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\bin\Debug\net6.0\Geometria.deps.json
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\bin\Debug\net6.0\Geometria.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\bin\Debug\net6.0\Geometria.dll
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\bin\Debug\net6.0\Geometria.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\obj\Debug\net6.0\Geometria.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\obj\Debug\net6.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\obj\Debug\net6.0\Geometria.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\obj\Debug\net6.0\Geometria.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\obj\Debug\net6.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\obj\Debug\net6.0\Geometria.dll
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\obj\Debug\net6.0\refint\Geometria.dll
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\obj\Debug\net6.0\Geometria.pdb
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\obj\Debug\net6.0\Geometria.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Soluções\Autorais\Geometria\Geometria\obj\Debug\net6.0\ref\Geometria.dll
