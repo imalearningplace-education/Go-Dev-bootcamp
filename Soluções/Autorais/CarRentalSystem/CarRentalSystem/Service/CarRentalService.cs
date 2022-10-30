@@ -1,17 +1,19 @@
-﻿using CarRentalSystem.Entity;
+﻿using CarRentalSystem.Domain;
+using CarRentalSystem.Service.Interfaces;
 
-namespace CarRentalSystem.Service {
+namespace CarRentalSystem.Service
+{
     public class CarRentalService {
 
         public double PricePerHour { get; set; }
         public double PricePerDay { get; set; }
 
-        private BrasilTaxService _brasilTaxService;
+        private TaxService _taxService;
 
-        public CarRentalService(double pricePerHour, double pricePerDay) {
+        public CarRentalService(double pricePerHour, double pricePerDay, TaxService taxService) {
             PricePerHour = pricePerHour;
             PricePerDay = pricePerDay;
-            _brasilTaxService = new BrasilTaxService();
+            _taxService = taxService;
         }
 
         public void ProcessInvoice(CarRental carRental) {
@@ -26,7 +28,7 @@ namespace CarRentalSystem.Service {
                 basicPayment = PricePerDay * Math.Ceiling(duration.TotalDays);
             }
 
-            tax = _brasilTaxService.Tax(basicPayment);
+            tax = _taxService.Tax(basicPayment);
 
             carRental.Invoice = new Invoice(basicPayment, tax);
         }

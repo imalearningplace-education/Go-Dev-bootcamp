@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CarRentalSystem.Entity {
+﻿namespace CarRentalSystem.Domain {
     public class Vehicle {
 
-        public string Model { get; set; }
+        public string Owner { get; set; }
+
+        public VehicleModel Model { get; set; }
 
     }
 }
