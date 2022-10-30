@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\bin\Debug\net6.0\CoreExceptions.exe
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\bin\Debug\net6.0\CoreExceptions.deps.json
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\bin\Debug\net6.0\CoreExceptions.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\bin\Debug\net6.0\CoreExceptions.dll
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\bin\Debug\net6.0\CoreExceptions.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\obj\Debug\net6.0\CoreExceptions.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\obj\Debug\net6.0\CoreExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\obj\Debug\net6.0\CoreExceptions.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\obj\Debug\net6.0\CoreExceptions.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\obj\Debug\net6.0\CoreExceptions.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\obj\Debug\net6.0\CoreExceptions.dll
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\obj\Debug\net6.0\refint\CoreExceptions.dll
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\obj\Debug\net6.0\CoreExceptions.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\obj\Debug\net6.0\CoreExceptions.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Exemplos\CoreExceptions\CoreExceptions\obj\Debug\net6.0\ref\CoreExceptions.dll
