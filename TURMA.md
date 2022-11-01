@@ -1,2 +1,3 @@
-- Hugo Rafael
+- Hugo Rafael de Lima
 - Marcos Vinícios
+- Gustavo Vieira da Silva 🤘
