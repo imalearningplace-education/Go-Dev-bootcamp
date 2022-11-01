@@ -1,2 +1,2 @@
-- Hugo Rafael
+- Hugo Rafael de Lima
 - Gustavo Vieira da Silva 🤘
