@@ -1,2 +1,2 @@
-- Hugo Rafael
-- minha mudança
+- Hugo Rafael de Lima
+- Gustavo Vieira da Silva 🤘
