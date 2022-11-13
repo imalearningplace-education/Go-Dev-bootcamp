@@ -1,23 +1,21 @@
-﻿namespace Banco.Entities {
+﻿using Banco.Exception;
+
+namespace Banco.Entities {
 
     public class Conta {
 
         // auto properties
-        public string ID { get; private set; }
+        private static long _contadorID = 1L;
+
+        public long ID { get; private set; }
         public double Saldo { get; private set; }
 
         // atributos
         private string _nome;
 
         // construtor e sobrecargas
-        public Conta(string id, string nome, double saldo) {
-            ID = id;
-            _nome = nome;
-            Saldo = saldo;
-        }
-
-        public Conta(string iD, string nome) {
-            ID = iD;
+        public Conta(string nome) {
+            ID = _contadorID++;
             _nome = nome;
             Saldo = 0.0;
         }
@@ -42,7 +40,8 @@
                 return true;
             }
 
-            return false;
+            string errorMessage = $"Não foi possível sacar a quantia de R${quantia:F2}";
+            throw new SaldoInsuficienteException(errorMessage);
         }
 
         // 3. transferir
@@ -53,7 +52,13 @@
                 return true;
             }
 
-            return false;
+            string errorMessage = $"Não foi possível transferir a quantia de R${quantia:F2}";
+            throw new SaldoInsuficienteException(errorMessage);
+        }
+
+
+        public override string ToString() {
+            return $"Saldo final conta ({ID}) do(a) {Nome} = R${Saldo:F2}";
         }
 
     }
