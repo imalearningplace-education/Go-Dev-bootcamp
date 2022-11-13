@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\obj\Debug\net6.0\LINQ2.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\obj\Debug\net6.0\LINQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\obj\Debug\net6.0\LINQ2.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\obj\Debug\net6.0\LINQ2.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\obj\Debug\net6.0\LINQ2.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\bin\Debug\net6.0\LINQ2.exe
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\bin\Debug\net6.0\LINQ2.deps.json
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\bin\Debug\net6.0\LINQ2.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\bin\Debug\net6.0\LINQ2.dll
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\bin\Debug\net6.0\LINQ2.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\obj\Debug\net6.0\LINQ2.dll
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\obj\Debug\net6.0\refint\LINQ2.dll
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\obj\Debug\net6.0\LINQ2.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\obj\Debug\net6.0\LINQ2.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ2\LINQ2\obj\Debug\net6.0\ref\LINQ2.dll
