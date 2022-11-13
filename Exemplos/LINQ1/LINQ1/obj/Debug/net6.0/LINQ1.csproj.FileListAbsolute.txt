@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\bin\Debug\net6.0\LINQ1.exe
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\bin\Debug\net6.0\LINQ1.deps.json
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\bin\Debug\net6.0\LINQ1.runtimeconfig.json
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\bin\Debug\net6.0\LINQ1.dll
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\bin\Debug\net6.0\LINQ1.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\obj\Debug\net6.0\LINQ1.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\obj\Debug\net6.0\LINQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\obj\Debug\net6.0\LINQ1.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\obj\Debug\net6.0\LINQ1.AssemblyInfo.cs
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\obj\Debug\net6.0\LINQ1.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\obj\Debug\net6.0\LINQ1.dll
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\obj\Debug\net6.0\refint\LINQ1.dll
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\obj\Debug\net6.0\LINQ1.pdb
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\obj\Debug\net6.0\LINQ1.genruntimeconfig.cache
+C:\Aulas\Turmas\GoDev\Exemplos\LINQ1\LINQ1\obj\Debug\net6.0\ref\LINQ1.dll
